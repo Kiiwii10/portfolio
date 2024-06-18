@@ -1,0 +1,28 @@
+.project-item {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 10px;
+    width: 30%;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.project-item:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.project-item h2 {
+    margin: 0;
+    font-size: 1.5em;
+    color: #333;
+}
+
+.project-item .hover-description {
+    margin-top: 10px;
+    font-size: 1em;
+    color: #777;
+}

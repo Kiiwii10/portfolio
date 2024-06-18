@@ -1,0 +1,11 @@
+.projects {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.projects .project-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
