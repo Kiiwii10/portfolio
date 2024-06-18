@@ -33,7 +33,7 @@ const Footer = () => (
   <FooterContainer>
     <p>Small fun project, written in React. Check it out on</p>
     <SocialLinks>
-      <a href="https://github.com/Kiiwii10" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/Kiiwii10/portfolio" target="_blank" rel="noopener noreferrer">
         <i className="fab fa-github"></i>
       </a>
     </SocialLinks>

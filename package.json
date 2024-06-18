@@ -2,7 +2,7 @@
   "name": "my-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Kiiwii10/portfolio.git",
+  "homepage": "https://kiiwii10.github.io/portfolio/",
   "dependencies": {
     "@chakra-ui/react": "^2.8.2",
     "@emotion/react": "^11.11.4",
