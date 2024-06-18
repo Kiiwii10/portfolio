@@ -68,7 +68,7 @@ const About = () => {
       <TextContainer>
         <Heading>About Me</Heading>
         <Description>
-          I'm Daniel Alexander Moroz, An university in the technion, following the Data Science curriculum under the Information Systems Engineering degree in The Faculty of Data and Decisions Science.<br /><br />
+          I'm Daniel Alexander Moroz, An university student in the technion, following the Data Science curriculum under the Information Systems Engineering degree in The Faculty of Data and Decisions Science.<br /><br />
           Background as a software engineer in a startup, former professional athlete. Passionate about data, Software, new technologies and innovation.<br /><br />
           I'm currently seeking internships or part-time roles in data science, algorithm\machine learning, and software engineering.<br />
           Feel free to reach out to me if you would like to connect or collaborate.
