@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/Kiiwii10/portfolio.git/static/js/main.3bf351b1.js",
-    "static/media/faculty.png": "/Kiiwii10/portfolio.git/static/media/faculty.0941b3048c366f57fcc2.png",
-    "static/media/lightbulb.png": "/Kiiwii10/portfolio.git/static/media/lightbulb.db76a89a5d56a9c72836.png",
-    "index.html": "/Kiiwii10/portfolio.git/index.html",
-    "main.3bf351b1.js.map": "/Kiiwii10/portfolio.git/static/js/main.3bf351b1.js.map"
+    "main.js": "/portfolio/static/js/main.65f7266d.js",
+    "static/media/faculty.png": "/portfolio/static/media/faculty.0941b3048c366f57fcc2.png",
+    "static/media/lightbulb.png": "/portfolio/static/media/lightbulb.db76a89a5d56a9c72836.png",
+    "index.html": "/portfolio/index.html",
+    "main.65f7266d.js.map": "/portfolio/static/js/main.65f7266d.js.map"
   },
   "entrypoints": [
-    "static/js/main.3bf351b1.js"
+    "static/js/main.65f7266d.js"
   ]
 }
